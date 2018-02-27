@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "global": "^4.3.2"
+  },
+  "name": "AlgoCasts-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evansantos/AlgoCasts-exercises.git",
+  "author": "Evandro Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
