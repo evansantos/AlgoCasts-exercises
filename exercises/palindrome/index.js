@@ -8,7 +8,7 @@
 //   palindrome("abcdefg") === false
 
 function palindrome(str) {
-  let reversed = str.split('').reduce((rev, char) => char + rev, '');
+  const reversed = str.split('').reduce((rev, char) => char + rev, '');
 
   return str === reversed;
 }
